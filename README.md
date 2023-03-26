@@ -1,2 +1,0 @@
-# Interview-reports
-JavaScript
